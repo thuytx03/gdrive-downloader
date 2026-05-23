@@ -38,13 +38,13 @@ Google Drive rất tuyệt vời, nhưng việc tải xuống các file hoặc t
 <h2 id="cai-dat">📦 Cài đặt</h2>
 
 ### Cho macOS
-1. Tải file `.dmg` hoặc `.app` mới nhất từ trang [Releases](https://github.com/thuytx03/https://github.com/thuytx03/gdrive-downloader/releases).
+1. Tải file `.dmg` hoặc `.app` mới nhất từ trang [Releases](https://github.com/thuytx03/gdrive-downloader/releases).
 2. Kéo biểu tượng **GDrive Downloader** vào thư mục `Applications`.
 3. Mở ứng dụng. Nếu gặp lỗi **"Damaged and can't be opened"**, hãy mở Terminal và chạy lệnh:
    `sudo xattr -rd com.apple.quarantine "/Applications/GDrive Downloader.app"`
 
 ### Cho Windows
-1. Tải file cài đặt `.exe` mới nhất từ trang [Releases](https://github.com/thuytx03/https://github.com/thuytx03/gdrive-downloader/releases).
+1. Tải file cài đặt `.exe` mới nhất từ trang [Releases](https://github.com/thuytx03/gdrive-downloader/releases).
 2. Chạy file cài đặt. Nếu hiện thông báo "Windows protected your PC", hãy nhấn **More info** -> **Run anyway**.
 3. Khởi chạy ứng dụng từ Desktop hoặc Start Menu.
 
