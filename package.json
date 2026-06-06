@@ -1,0 +1,16 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "version": "1.0.0",
+    "name": "google-drive-downloader",
+    "displayName": "GDrive Downloader",
+    "description": "Ứng dụng máy tính giúp bạn tải file từ Google Drive một cách an toàn và nhanh chóng.",
+    "keywords": [
+        "google-drive",
+        "download",
+        "desktop-application",
+        "tauri"
+    ],
+    "author": "Trinh Xuan Thuy",
+    "license": "MIT",
+    "type": "module"
+}
